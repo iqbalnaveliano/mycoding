@@ -1,0 +1,18 @@
+# SOAL 1 - Menghitung rata-rata
+# Tuliskan program untuk Soal 1 di bawah ini
+nilai = eval(input("masukan bilangan pertama:"))
+nilai = eval(input("masukan nilai bilangan kedua:"))
+nilai = eval(input("masukan nilai bilangan ketiga:"))
+print ("Hasil rata-rata dari 3 nilai bilangan adalah : ", nilai + nilai + nilai / 3)
+
+
+
+# SOAL 2 - Menulis kelipatan bilangan
+# Tuliskan program untuk Soal 2 di bawah ini
+A = 1
+B = 2
+C = 3
+D = 4
+E = 5
+nilai = eval(input("masukan nilai bilangan pertama :"))
+print ('hasil dari kelipatan bilangan di atas adalah : ', nilai * A, nilai * B, nilai * C, nilai * D, nilai * E, sep='-----')
